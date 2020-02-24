@@ -1,2 +1,2 @@
-# flink
-Base Flink Docker images with external jars
+# flink-image
+flink image with external jars
